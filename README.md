@@ -1,3 +1,15 @@
+# Counter App
+
+This is a simple counter app that uses the useState hook to manage state building for revision perpose on concept .
+
+## Getting Started
+
+To get started, clone this repository:
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
